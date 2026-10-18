@@ -1,0 +1,1083 @@
+
+[
+  {
+    "EPROCESS_ImageFileName": "System",
+    "EPROCESS_SeAudit_ImageFileName": null,
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "Registry",
+    "EPROCESS_SeAudit_ImageFileName": "Registry",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 72,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "smss.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\smss.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "\\SystemRoot\\System32\\smss.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 384,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "csrss.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\csrss.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\csrss.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 488,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "csrss.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\csrss.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\csrss.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 556,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "wininit.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\wininit.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\wininit.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 572,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "winlogon.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\winlogon.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\winlogon.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 612,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "services.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\services.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\services.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 684,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "lsass.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\lsass.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\lsass.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 696,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 796,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "fontdrvhost.ex",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\fontdrvhost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\fontdrvhost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 812,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "fontdrvhost.ex",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\fontdrvhost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\fontdrvhost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 820,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 900,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1008,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1016,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 424,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 440,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 436,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 740,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "LogonUI.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\LogonUI.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\LogonUI.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1124,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "dwm.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\dwm.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\dwm.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1132,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1168,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1268,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "MemCompression",
+    "EPROCESS_SeAudit_ImageFileName": "MemCompression",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1292,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1404,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1460,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1468,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1484,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "spoolsv.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\spoolsv.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\spoolsv.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1568,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1612,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1720,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1848,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "WaAppAgent.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\WindowsAzure\\GuestAgent_2.7.41491.1149_2025-03-05_175256\\WaAppAgent.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\WindowsAzure\\GuestAgent_2.7.41491.1149_2025-03-05_175256\\WaAppAgent.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1908,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "WindowsAzureGu",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\WindowsAzure\\GuestAgent_2.7.41491.1149_2025-03-05_175256\\WindowsAzureGuestAgent.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\WindowsAzure\\GuestAgent_2.7.41491.1149_2025-03-05_175256\\WindowsAzureGuestAgent.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1944,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "MsMpEng.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files\\Windows Defender\\MsMpEng.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files\\Windows Defender\\MsMpEng.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1956,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "dllhost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\dllhost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\dllhost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1968,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "sshd.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files\\OpenSSH\\sshd.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files\\OpenSSH\\sshd.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 912,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "ssh-agent.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files\\OpenSSH\\ssh-agent.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files\\OpenSSH\\ssh-agent.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1108,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 2216,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "dllhost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\dllhost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\dllhost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 2348,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msdtc.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\msdtc.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\msdtc.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 2672,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 2768,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "taskhostw.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\taskhostw.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\taskhostw.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 2948,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3048,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 2308,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "SearchIndexer.",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\SearchIndexer.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\SearchIndexer.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1048,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "NisSrv.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files\\Windows Defender\\NisSrv.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files\\Windows Defender\\NisSrv.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3296,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "AggregatorHost",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\AggregatorHost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\AggregatorHost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3412,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "csrss.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\csrss.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\csrss.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3576,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "winlogon.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\winlogon.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3616,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "WUDFHost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\WUDFHost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\WUDFHost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3728,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "fontdrvhost.ex",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\fontdrvhost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3812,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "dwm.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\dwm.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\dwm.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3860,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "rdpclip.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\rdpclip.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\rdpclip.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4180,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "sihost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\sihost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\sihost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4228,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4244,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "taskhostw.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\taskhostw.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\taskhostw.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4304,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "MicrosoftEdgeU",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4332,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "ctfmon.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\ctfmon.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\ctfmon.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4444,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4536,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4676,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "userinit.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\userinit.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4832,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "explorer.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\explorer.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\Explorer.EXE",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4912,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "WmiPrvSE.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\wbem\\WmiPrvSE.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\wbem\\wmiprvse.exe",
+    "PEB_ImageFilePath_Spoofed": true,
+    "PID": 5060,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "WaSecAgentProv",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\WindowsAzure\\SecAgent\\WaSecAgentProv.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4208,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "conhost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\conhost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\conhost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4424,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3912,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "StartMenuExper",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 2776,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "RuntimeBroker.",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\RuntimeBroker.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 5444,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "SearchApp.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 5644,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "TextInputHost.",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 5744,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "RuntimeBroker.",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\RuntimeBroker.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 5776,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "SkypeApp.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files\\WindowsApps\\Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c\\SkypeApp.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3908,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "SkypeBackgroun",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files\\WindowsApps\\Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c\\SkypeBackgroundHost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1412,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "RuntimeBroker.",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\RuntimeBroker.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 5664,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "smartscreen.ex",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\smartscreen.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4136,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "SecurityHealth",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\SecurityHealthSystray.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1860,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "SecurityHealth",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\SecurityHealthService.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\SecurityHealthService.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 680,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedge.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3952,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "OneDrive.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Users\\generic-user\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Users\\generic-user\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 6160,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedge.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 6204,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedge.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 6448,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedge.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 6456,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedge.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 6672,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "RuntimeBroker.",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\RuntimeBroker.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 6852,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "dllhost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\dllhost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\DllHost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 5456,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "cmd.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\cmd.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\cmd.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 784,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "conhost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\conhost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3896,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 6112,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3584,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 5768,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "notepad.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\notepad.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\notepad.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 2968,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "SearchProtocol",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\SearchProtocolHost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\SearchProtocolHost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4484,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedge.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 5348,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedge.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1000,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "audiodg.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\audiodg.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\AUDIODG.EXE",
+    "PEB_ImageFilePath_Spoofed": true,
+    "PID": 6316,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "backgroundTask",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\backgroundTaskHost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3292,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedge.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3876,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedge.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 7080,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedge.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 5604,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "SearchApp.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1040,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedge.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 5132,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedge.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 5388,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedgewebview2",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\133.0.3065.92\\msedgewebview2.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 4812,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedgewebview2",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\133.0.3065.92\\msedgewebview2.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 5840,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedgewebview2",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\133.0.3065.92\\msedgewebview2.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 7108,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedgewebview2",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\133.0.3065.92\\msedgewebview2.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 3528,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedgewebview2",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\133.0.3065.92\\msedgewebview2.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 6736,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedgewebview2",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\133.0.3065.92\\msedgewebview2.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1584,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "msedge.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 6064,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "SearchFilterHo",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\SearchFilterHost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\SearchFilterHost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 1700,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "RuntimeBroker.",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\RuntimeBroker.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 7576,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "RuntimeBroker.",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\RuntimeBroker.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 7704,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "MoUsoCoreWorke",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\MoUsoCoreWorker.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\System32\\mousocoreworker.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 7808,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "svchost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\svchost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\svchost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 7888,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "BackgroundTran",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\BackgroundTransferHost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": null,
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 8040,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "backgroundTask",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\backgroundTaskHost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\backgroundTaskHost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 5984,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "MpCmdRun.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files\\Windows Defender\\MpCmdRun.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files\\Windows Defender\\MpCmdRun.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 7352,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "MpCmdRun.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Program Files\\Windows Defender\\MpCmdRun.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Program Files\\Windows Defender\\MpCmdRun.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 5044,
+    "__children": []
+  },
+  {
+    "EPROCESS_ImageFileName": "conhost.exe",
+    "EPROCESS_SeAudit_ImageFileName": "\\Device\\HarddiskVolume4\\Windows\\System32\\conhost.exe",
+    "PEB_CommandLine_Spoofed": false,
+    "PEB_ImageFilePath": "C:\\Windows\\system32\\conhost.exe",
+    "PEB_ImageFilePath_Spoofed": false,
+    "PID": 2044,
+    "__children": []
+  }
+]

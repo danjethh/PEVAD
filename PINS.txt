@@ -1,0 +1,8 @@
+volatility3 77ff0b1932d77527f850c8ced01d85805ea7bf97 (framework 2.28.3)
+python Python 3.13.16
+capstone==5.0.9
+pefile==2024.8.26
+pycryptodome==4.0.1
+pytest==9.1.1
+yara-python==4.5.4
+original pevad.py sha256 46ec428f630ec91e25f1cb425e5b82553407a60430121ba06c5242d24c7ef484

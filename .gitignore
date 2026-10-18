@@ -1,0 +1,12 @@
+# Memory images are evidence-class data: never commit
+data/images/
+*.raw
+*.mem
+*.vmem
+*.dmp
+*.lime
+*.img
+.venv/
+vol3_src/
+__pycache__/
+.pytest_cache/
