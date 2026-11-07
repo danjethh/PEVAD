@@ -181,14 +181,18 @@ downgrade to Info instead of Suspicious.
     python -m pytest tests -q
     vol -r json -p ./plugin -f <image.dmp> windows.pevad.Pevad > out.json
 
-**Demonstration sample:** a self-contained synthetic positive control (six planted techniques: PEB path spoof,
-PEB image-base spoof, loader-list unlink, main-image retype, reflective-injection-like region, W+X-only region
-- built by `scripts/make_tampered_image.py` from a pristine, redistributable Volatility test-corpus Win10 19041
-x64 image) is attached to the GitHub Release for this repository, alongside its tamper manifest, since it is too
-large for this repository's git history. Verify PEVAD against it with:
+**Demonstration sample (reproducible, not redistributed):** a self-contained synthetic positive control (six
+planted techniques: PEB path spoof, PEB image-base spoof, loader-list unlink, main-image retype,
+reflective-injection-like region, W+X-only region) is regenerated deterministically rather than shipped as a
+binary, so there is no ~2GB memory-image file in this repository or any release asset. `data/synthetic/win10_tampered_manifest.json`
+is committed and records the exact PIDs, edits, and expected PEVAD finding IDs from the run that produced the
+results below. To reproduce the identical sample:
 
-    vol -r json -p ./plugin -f win10_tampered.dmp windows.pevad.Pevad > out.json
-    python scripts/check_tamper.py win10_tampered_manifest.json <(cat out.json) out.json
+    python scripts/fetch_datasets.py fetch       # downloads the public Volatility test-corpus Win10 19041 image,
+                                                  # verifies it against the published SHA-256
+    python scripts/fetch_datasets.py synthetic   # builds win10_tampered.dmp from that image (a couple of minutes)
+    vol -r json -p ./plugin -f data/synthetic/win10_tampered.dmp windows.pevad.Pevad > out.json
+    python scripts/check_tamper.py data/synthetic/win10_tampered_manifest.json <(cat out.json) out.json
 
 Real-world evaluation (Server 2008, WinDump, MemLabs, and the two ground-truth cases below, BlackEnergy and
 RedLine) used third-party memory images under their own distribution terms and are not redistributed in this

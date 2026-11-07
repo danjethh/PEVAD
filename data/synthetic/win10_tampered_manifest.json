@@ -1,0 +1,71 @@
+{
+  "source": "win-10_19041-2025_03.dmp",
+  "source_sha256": "ef92b50aa2ba2f830e3f816eb55ed8d15b0658fdfff0ab7af8adb68f2c8da460",
+  "note": "SYNTHETIC structural tampering of a clean image; not real malware.",
+  "operations": [
+    {
+      "op": "peb_path",
+      "pid": 4228,
+      "from": "C:\\Windows\\system32\\sihost.exe",
+      "to": "C:\\Windows\\system32\\xihost.exe",
+      "expect": [
+        "PEVAD-I04"
+      ]
+    },
+    {
+      "op": "peb_imagebase",
+      "pid": 2948,
+      "from": "0x7ff6b4900000",
+      "to": "0x7ff6b4910000",
+      "expect": [
+        "PEVAD-I01"
+      ]
+    },
+    {
+      "op": "unlink",
+      "pid": 4304,
+      "module": "midimap.dll",
+      "base": "0x7ff811d90000",
+      "lists": [
+        "InLoadOrderLinks",
+        "InMemoryOrderLinks",
+        "InInitializationOrderLinks"
+      ],
+      "expect": [
+        "PEVAD-I07"
+      ]
+    },
+    {
+      "op": "main_not_image",
+      "pid": 1968,
+      "vad": "0x7ff74df80000",
+      "expect": [
+        "PEVAD-I02"
+      ]
+    },
+    {
+      "op": "reflective",
+      "pid": 2348,
+      "vad": "0x21e32f40000",
+      "expect": [
+        "PEVAD-II01",
+        "PEVAD-II02"
+      ],
+      "expect_tags": [
+        "pe_header",
+        "shellcode_stager"
+      ]
+    },
+    {
+      "op": "wx_only",
+      "pid": 5456,
+      "vad": "0x258dbad0000",
+      "expect": [
+        "PEVAD-II01",
+        "PEVAD-II02"
+      ]
+    }
+  ],
+  "tampered": "win10_tampered.dmp",
+  "tampered_sha256": "8b9f1b5053753200931a1abb5072e771ce8794a71164aab765e218af417bb165"
+}

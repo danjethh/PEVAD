@@ -83,17 +83,19 @@ tier rules are in the repository README.
 
 ## Demonstration sample
 
-The attached `win10_tampered.dmp` (GitHub Release asset, this repository) is
-a synthetic positive control built by `scripts/make_tampered_image.py` from
-a pristine, redistributable Volatility test-corpus Windows 10 19041 x64
-image. It plants six structurally distinct techniques (PEB path spoof, PEB
-image-base spoof, loader-list unlink, main-image retype, a
-reflective-injection-like region, and a W+X-only region) at known PIDs, with
-the expected PEVAD finding IDs recorded in `win10_tampered_manifest.json`.
-Verify with:
+Rather than redistribute a ~2GB memory-image binary, this submission ships the generator:
+`scripts/make_tampered_image.py` builds a synthetic positive control deterministically from
+the pristine, public Volatility test-corpus Windows 10 19041 x64 image. It plants six
+structurally distinct techniques (PEB path spoof, PEB image-base spoof, loader-list unlink,
+main-image retype, a reflective-injection-like region, and a W+X-only region) at known PIDs.
+`data/synthetic/win10_tampered_manifest.json` is committed and records the exact PIDs and
+expected PEVAD finding IDs from the run that produced the results below, so a judge can
+regenerate the identical sample and check PEVAD's output against it directly:
 
-    vol -r json -p ./plugin -f win10_tampered.dmp windows.pevad.Pevad > out.json
-    python scripts/check_tamper.py win10_tampered_manifest.json out.json out.json
+    python scripts/fetch_datasets.py fetch
+    python scripts/fetch_datasets.py synthetic
+    vol -r json -p ./plugin -f data/synthetic/win10_tampered.dmp windows.pevad.Pevad > out.json
+    python scripts/check_tamper.py data/synthetic/win10_tampered_manifest.json out.json out.json
 
 The two real-malware ground-truth cases (BlackEnergy, RedLine) use
 third-party CyberDefenders lab images under their own distribution terms and
